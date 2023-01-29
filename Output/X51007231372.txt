@@ -1,0 +1,6 @@
+{
+    "company": "GLOBAL FOOD EMPIRE SDN BHD",
+    "date": "2018-05-01",
+    "address": "",
+    "total": "36.20"
+}

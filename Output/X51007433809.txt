@@ -1,0 +1,6 @@
+{
+    "company": "SYARIKAT KAM LAI SEONG SDN BHD",
+    "date": "08-03-2018",
+    "address": "",
+    "total": "190.00"
+}

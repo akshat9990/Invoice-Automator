@@ -1,0 +1,6 @@
+{
+    "company": "SAMUDRA PERTAMA (M) SDN BHD.",
+    "date": "03/06/2018",
+    "address": "NO.2-1,JALAN",
+    "total": "61.70"
+}

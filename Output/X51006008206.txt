@@ -1,0 +1,6 @@
+{
+    "company": "BURGER KING",
+    "date": "2018/03/27",
+    "address": "LOT SATMZ 23, MEZZANINE LEVEL SATELLITE BUILDING KUALA LUMPUR",
+    "total": "RM63.90"
+}

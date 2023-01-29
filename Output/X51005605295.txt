@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "date": "22/03/18",
+    "address": "LOT G01, KL FESTIVAL CITY, NO. 67 JIN JBU",
+    "total": ""
+}

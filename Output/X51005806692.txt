@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "date": "18/02/2018",
+    "address": "60 & 62. JALAN CIKU, 86000,KLUANG",
+    "total": "367.30"
+}

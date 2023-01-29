@@ -1,0 +1,6 @@
+{
+    "company": "EXQUISITE GARDEN SDN BHD",
+    "date": "03 JUN 18",
+    "address": "",
+    "total": "72.00"
+}

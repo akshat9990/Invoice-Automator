@@ -1,0 +1,6 @@
+{
+    "company": "LIM SENG THO HARDWARE TRADING",
+    "date": "02/02/2018",
+    "address": "",
+    "total": "7.00"
+}

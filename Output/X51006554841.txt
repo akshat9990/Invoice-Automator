@@ -1,0 +1,6 @@
+{
+    "company": "NSK TRADE CITY",
+    "date": "27-10-2017",
+    "address": "",
+    "total": "RM9.00"
+}

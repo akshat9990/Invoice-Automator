@@ -1,0 +1,6 @@
+{
+    "company": "ANEKA INTERTRADE MARKETING SDN BHD",
+    "date": "19/06/17",
+    "address": "",
+    "total": "50.80"
+}

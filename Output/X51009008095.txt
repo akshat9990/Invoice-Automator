@@ -1,0 +1,6 @@
+{
+    "company": "BOON SENG PAPER SDN BHD",
+    "date": "19/03/2018",
+    "address": "",
+    "total": "31.80"
+}

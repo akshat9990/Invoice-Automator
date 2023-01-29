@@ -1,0 +1,6 @@
+{
+    "company": "POTTERS GARDEN SDN BHD",
+    "date": "04/01/2018",
+    "address": "",
+    "total": "39.80"
+}

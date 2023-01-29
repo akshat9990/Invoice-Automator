@@ -1,0 +1,6 @@
+{
+    "company": "HENG KEE DELIGHTS BAK KUT TEH.",
+    "date": "04/01/2018",
+    "address": "",
+    "total": "42.00"
+}

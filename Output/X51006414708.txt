@@ -1,0 +1,6 @@
+{
+    "company": "RESTORAN HWA",
+    "date": "29/04/2018",
+    "address": "",
+    "total": "101.50"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "SWC ENTERPRISE SDN BHD",
+    "date": "02/01/2018",
+    "address": "8 & 10, JALAN IJOK",
+    "total": "4.20"
+}

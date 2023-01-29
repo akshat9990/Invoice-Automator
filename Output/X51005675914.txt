@@ -1,0 +1,6 @@
+{
+    "company": "BEYOND BROTHERS HARDWARE",
+    "date": "10/11/2017",
+    "address": "",
+    "total": "67.85"
+}

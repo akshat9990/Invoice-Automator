@@ -1,0 +1,6 @@
+{
+    "company": "STAR GROCER SDN BHD",
+    "date": "25/03/18",
+    "address": "",
+    "total": "66.15"
+}

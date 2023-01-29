@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "date": "28-FEB-2018",
+    "address": "LOT G18 & G19, JLN 8/27A WANGSA MAJU (",
+    "total": "4.10"
+}

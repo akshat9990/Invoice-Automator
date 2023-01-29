@@ -1,0 +1,6 @@
+{
+    "company": "PASAR MINI JIN SENG",
+    "date": "03/03/18",
+    "address": "379, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA B1750 PLENTONG, JOHOR.",
+    "total": "13.60"
+}

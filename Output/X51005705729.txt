@@ -1,0 +1,6 @@
+{
+    "company": "ASO ELECTRICAL TRADING SDN BHD",
+    "date": "13/10/2017",
+    "address": "",
+    "total": "89.26"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "BUY SELL TRADE SDN. BHD.",
+    "date": "04/02/2017",
+    "address": "",
+    "total": "27.00"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "SIN LIANHAP SDN BHD",
+    "date": "05/02/2018",
+    "address": "LOT 13, JALAN SIN LIANHAP SDN BHD",
+    "total": "7.30"
+}

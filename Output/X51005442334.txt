@@ -1,0 +1,6 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "26 MAR 2018",
+    "address": "",
+    "total": "$8.20"
+}

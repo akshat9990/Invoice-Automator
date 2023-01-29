@@ -1,0 +1,6 @@
+{
+    "company": "MONSIEUR ( M ) SDN. BHD.",
+    "date": "12/06/2016",
+    "address": "LOT S319A, 2ND FLOOR, 1 UTAMA SHOPPING",
+    "total": "23.20"
+}

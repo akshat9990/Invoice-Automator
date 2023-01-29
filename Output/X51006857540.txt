@@ -1,0 +1,6 @@
+{
+    "company": "BECON STATIONER BECON ENTERPRISE SDN BHD",
+    "date": "13-11-2017",
+    "address": "",
+    "total": "300.10"
+}

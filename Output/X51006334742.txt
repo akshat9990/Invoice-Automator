@@ -1,0 +1,6 @@
+{
+    "company": "THE CUT STEAKHOUSE &BURGERS",
+    "date": "01-01-2017",
+    "address": "",
+    "total": "6.08"
+}

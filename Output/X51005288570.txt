@@ -1,0 +1,6 @@
+{
+    "company": "CORPORATION S/B",
+    "date": "23.03.18",
+    "address": "",
+    "total": ""
+}

@@ -1,0 +1,6 @@
+{
+    "company": "KOH SENG HARDWARE",
+    "date": "04/12/2017",
+    "address": "",
+    "total": "48.00"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "ROMA'S AEON TEBRAU CITY GRAND COMPANIONS SDN BHD(285560-H)",
+    "date": "03 MAR 18",
+    "address": "LOT G112, AEON MALL TEBRAU CITY",
+    "total": "269.40"
+}

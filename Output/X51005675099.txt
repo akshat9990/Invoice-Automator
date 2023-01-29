@@ -1,0 +1,6 @@
+{
+    "company": "SUPER TERMINAL SDN BHD",
+    "date": "20/01/2018",
+    "address": "",
+    "total": "125.00"
+}

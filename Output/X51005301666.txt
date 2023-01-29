@@ -1,0 +1,6 @@
+{
+    "company": "LIGHTROOM GALLERY SDN BHD",
+    "date": "20/11/2017",
+    "address": "",
+    "total": "278.80"
+}

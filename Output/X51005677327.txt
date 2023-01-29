@@ -1,0 +1,6 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "01/02/2018",
+    "address": "",
+    "total": ""
+}

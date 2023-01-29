@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "date": "01/05/2018",
+    "address": "4, JIN AMPANG, HULU LANGAT, 68000 AMAPNG, SELANGOR.",
+    "total": "23.37"
+}

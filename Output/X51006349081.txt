@@ -1,0 +1,6 @@
+{
+    "company": "C W KHOO HARDWARE SDN BHD",
+    "date": "26/04/2018",
+    "address": "",
+    "total": "84.80"
+}

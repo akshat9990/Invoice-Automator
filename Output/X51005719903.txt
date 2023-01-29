@@ -1,0 +1,6 @@
+{
+    "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+    "date": "11/03/2018",
+    "address": "",
+    "total": "8.50"
+}
