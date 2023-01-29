@@ -23,7 +23,8 @@ My solution for this problem can be generalized into two parts:
 - NLP Tools
 ## Dataset
 
-The dataset that we are working with is composed of 1000 scanned receipts, each of which contains several key text fields such as the name of the goods, the unit price, and the total cost. These text fields are annotated with text bounding boxes and the transcript of each box, and the locations are marked as rectangles with four vertices arranged in a clockwise order starting from the top. The annotations for each image are stored in a separate text file with the same file name as the image. In addition to this, the information extraction dataset comprises of extracted entities such as company names, addresses, and phone numbers, which have been meticulously collected and stored in a separate text file for easy access by our NLP model. The text annotated in the dataset mainly consists of digits and English characters, making it an ideal use case for the OCR task.
+The dataset that we are working with is composed of 1000 scanned receipts, each of which contains several key text fields such as the name of the goods, the unit price, and the total cost. These text fields are annotated with text bounding boxes and the transcript of each box, and the locations are marked as rectangles with four vertices arranged in a clockwise order starting from the top. The annotations for each image are stored in a separate text file with the same file name as the image. In addition to this, the information extraction dataset comprises of extracted entities such as company names, addresses, and phone numbers, which have been meticulously collected and stored in a separate text file for easy access by our NLP model. The text annotated in the dataset mainly consists of digits and English characters, making it an ideal use case for the OCR task. The dataset link is below. <br>
+ [Dataset Link](https://drive.google.com/drive/folders/1Jl50NDOyIU4da5krdgpU2g00GlLDn66B?usp=share_link)
 
 
 ## OCR of the Invoice Image
@@ -62,14 +63,26 @@ Evaluation metric used to measure the model performance is **F1 score**.<br>
 F1 score of the above mentioned Custom NER model on the test data set is **0.78** or **78%**.
 
 
-## Screenshots
+## Sample Input Image
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![X510056849111](https://user-images.githubusercontent.com/71962566/215330639-0ea82f10-3d14-4076-98ee-9e0ad124c959.jpg)
+
+## Sample Output (Information Extracted)
+![image](https://user-images.githubusercontent.com/71962566/215330685-bf82c42a-4735-4acb-94f0-32335172009c.png)
 
 
-## Acknowledgements
+## Output Files 
+The output of the Test Dataset is in the output folder above
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+## References
+
+- https://spacy.io/usage/linguistic-features#named-entities
+- https://spacy.io/usage/training
+- https://aihub.cloud.google.com/u/0/p/products%2F2290fc65-0041-4c87-a898-0289f59aa8ba
+- https://github.com/PaddlePaddle/PaddleOCR
+- https://github.com/PaddlePaddle
+- https://medium.com/mysuperai/what-is-named-entity-recognition-ner-and-how-can-i-use-it-2b68cf6f545d
+- https://turbolab.in/build-a-custom-ner-model-using-spacy-3-0/
+- https://www.youtube.com/playlist?list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo
+- https://learnopencv.com/optical-character-recognition-using-paddleocr/
 
